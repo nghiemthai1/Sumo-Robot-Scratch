@@ -1,0 +1,21 @@
+G04 DipTrace 3.1.0.1*
+G04 09342-02_pranvokua9_0_1.gko*
+%MOMM*%
+G04 #@! TF.FileFunction,Profile*
+G04 #@! TF.Part,Single*
+%ADD11C,0.14*%
+%FSLAX35Y35*%
+G04*
+G71*
+G90*
+G75*
+G01*
+G04 BoardOutline*
+%LPD*%
+X1000800Y1000800D2*
+D11*
+X6300800D1*
+Y9300800D1*
+X1000800D1*
+Y1000800D1*
+M02*
