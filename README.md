@@ -11,3 +11,5 @@ that can open .ods files.<br />
 
 ## The sumobot-final-project-report.pdf 
 Is a pdf of - surprise- the sumobot final project report for Embedded Systems.<br />
+
+![blue](https://user-images.githubusercontent.com/30231031/39676810-85666ed6-513e-11e8-99f9-928e76b7bbfa.jpg)
