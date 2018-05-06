@@ -15,5 +15,5 @@ Is a pdf of - surprise- the sumobot final project report for Embedded Systems.<b
 # Extra!
 The sumo-bot is now implemented with a PID controller that follow an object at a desired distance!
 ### The PID_Controller folder contains the code and the pdf report of the project. 
-### Below is some graphic representation. 
+Below is some graphic representation. <br />
  ![ezgif com-crop](https://user-images.githubusercontent.com/30231031/39677028-9503a742-5142-11e8-8732-1edfd169191b.gif)
